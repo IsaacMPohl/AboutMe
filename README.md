@@ -52,12 +52,12 @@ Today I will do what others won't **so tommorrow I can do what others can't**
 
 ## Favorite Terms
 
-| Terms |
-|:-|
-| API |
-| Autonomous|
-| Arithmetic operators |
-| Algorithm |
+| Terms || Definitions |
+|:-| |:----:|
+| API | | Application Programming Interface |
+| Autonomous| | Hardware and software work together to solve a problem by performing an action |
+| Arithmetic operators | A mathematical function that takes two operands and performs a calculation on them |
+| Algorithm | | A list set of instructions, used to solve problems or perform tasks |
 
 
 
