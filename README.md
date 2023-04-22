@@ -7,6 +7,9 @@ I am Isaac Pohl anda Junior Leader at Gibson Southern Highschool and Southern In
 
 [I have a newhome]: https://www.veteransunited.com/lp/dark/?src=adw&adg=70596605642&cmp=genloan&desc=shop2&matchtype=e&adid=650942174070&targetid=kwd-296592731249&label=&campaignid=1769033670&gclid=Cj0KCQjwi46iBhDyARIsAE3nVraoBdxorVVtvlee3aDOhwDCjmoPCNj1h5n_X9VJ1aIJjAXUoKgIO3kaAlTVEALw_wcB 
 [1]:https://www.senate.gov/artandhistory/history/common/civil_war/Death_of_Lincoln.htm
+[2]: https://www.nytimes.com/2022/04/28/books/elon-musk-books-biography.html
+[3]: https://en.wikipedia.org/wiki/Cody_Johnson#Artistry
+
 Hobbies
 -
 * Running and Working Out
@@ -41,7 +44,8 @@ Today I will do what others won't **so tommorrow I can do what others can't**
 ## Persons Of Interest
 
 [Abraham Lincoln][1]
-
+[Elon Musk][2]
+[Cody Joson][3]
 
 
 
