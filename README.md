@@ -44,9 +44,12 @@ Today I will do what others won't **so tommorrow I can do what others can't**
 ## Persons Of Interest
 
 [Abraham Lincoln][1] <br>
-<img src="img/lincoln.jpg" height="100px" width="200px">
+<img src="img/lincoln.jpg" height="100px" width="200px"> <br>
 [Elon Musk][2] <br>
+<img src="img/lincoln.jpg" height="100px" width="200px"> <br>
 [Cody Joson][3] <br>
+<img src="img/lincoln.jpg" height="100px" width="200px"> <br>
+
 
 
 
