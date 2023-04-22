@@ -6,7 +6,7 @@
 I am Isaac Pohl anda Junior Leader at Gibson Southern Highschool and Southern Indiana Career & Technical School for Computer science. I have passion for Computer Science because of the problem solving skills and challenged. I am very active in 4-H, FFA, BPA, and Junior Leaders. Lastly, I operate a greenhouse called Pohl's Greenhouse at Pohl's Ag Services. 
 
 [I have a newhome]: https://www.veteransunited.com/lp/dark/?src=adw&adg=70596605642&cmp=genloan&desc=shop2&matchtype=e&adid=650942174070&targetid=kwd-296592731249&label=&campaignid=1769033670&gclid=Cj0KCQjwi46iBhDyARIsAE3nVraoBdxorVVtvlee3aDOhwDCjmoPCNj1h5n_X9VJ1aIJjAXUoKgIO3kaAlTVEALw_wcB 
-[1][https://www.senate.gov/artandhistory/history/common/civil_war/Death_of_Lincoln.htm]
+[1]:https://www.senate.gov/artandhistory/history/common/civil_war/Death_of_Lincoln.htm
 Hobbies
 -
 * Running and Working Out
