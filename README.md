@@ -21,7 +21,7 @@ My nighttime routine includes
 
 *It's all about persistence and work ethic*
 
-*Fill you life with happness not addention"
+*Fill you life with happness not addention*
 
 
 ## Favortie Quotes
@@ -30,6 +30,9 @@ Run when you can, walk if you have to, crawl if you must, **just never give up**
 
 Today I will do what others won't **so tommorrow I can do what others can't**
 
+## My Favorite Websites
+
+[Amazon](https://www.amazon.com/ "Amazon.com")
 
 
 
