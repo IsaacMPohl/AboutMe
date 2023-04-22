@@ -37,15 +37,16 @@ Today I will do what others won't **so tommorrow I can do what others can't**
 
 ## My Favorite Websites
 
-[Amazon](https://www.amazon.com/ "Amazon.com")
-[I'm being tagged][I have a newhome]
+[Amazon](https://www.amazon.com/ "Amazon.com")<br>
+[I'm being tagged][I have a newhome] <br>
 
 
 ## Persons Of Interest
 
-[Abraham Lincoln][1]
-[Elon Musk][2]
-[Cody Joson][3]
+[Abraham Lincoln][1] <br>
+![Abraham](https://github.com/AboutMe/img/lincoln.jpg)
+[Elon Musk][2] <br>
+[Cody Joson][3] <br>
 
 
 
